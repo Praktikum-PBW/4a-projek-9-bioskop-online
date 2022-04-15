@@ -1,1 +1,21 @@
 # 4a-projek-9-bioskop-online
+
+![Admin_Table User_Read](https://user-images.githubusercontent.com/100125353/163591038-1a5f2f18-6b83-4f30-b1fc-fbd5c884cd61.PNG)
+![Admin_Table User_Update](https://user-images.githubusercontent.com/100125353/163591045-50007cbf-efb8-4ccd-85af-91a87cc10bfd.PNG)
+![Dashboard Admin](https://user-images.githubusercontent.com/100125353/163591046-36eeb97c-fc26-4c59-ac69-ea91a6c29afe.PNG)
+![Tampilan_Login](https://user-images.githubusercontent.com/100125353/163591048-287fdede-7ab2-427f-8144-05f00fd2b149.PNG)
+![Tampilan_Register](https://user-images.githubusercontent.com/100125353/163591104-cc8e170a-d7e9-458a-ba6e-6e044bc33c77.PNG)
+![User_Tampilan_Home2](https://user-images.githubusercontent.com/100125353/163591243-6ccda89a-acea-4c2b-8e82-9e2b9410d53d.PNG)
+![Admin_Table Film_Create](https://user-images.githubusercontent.com/100125353/163591254-112abd4b-0ccf-4c56-b849-3486e85634de.PNG)
+![Admin_Table Film_Delete](https://user-images.githubusercontent.com/100125353/163591259-cf92b2c4-7f04-47f6-89fa-ebfb30dde1ce.PNG)
+![Admin_Table Film_Read](https://user-images.githubusercontent.com/100125353/163591264-39d397bf-f4bb-4407-ad1a-f0d1c89c78ef.PNG)
+![Admin_Table Film_Update](https://user-images.githubusercontent.com/100125353/163591271-a774e367-c3be-48b5-bfd6-4fd2bbb54259.PNG)
+![Tampilan_Utama](https://user-images.githubusercontent.com/100125353/163591166-73cde1f7-dafa-43c3-9a82-4184eb11e537.PNG)
+![Admin_Table User_Delete](https://user-images.githubusercontent.com/100125353/163591301-4096db34-85d7-420b-bd57-9b5e46fb7b43.PNG)
+![Admin_Table Jadwal](https://user-images.githubusercontent.com/100125353/163591277-9e51eb5a-e955-4ea3-9a49-e2db2025bbbb.PNG)
+![Admin_Table Studio](https://user-images.githubusercontent.com/100125353/163591281-79b864ca-86d7-4bd7-985c-45895acb19a8.PNG)
+![Admin_Table Tiket](https://user-images.githubusercontent.com/100125353/163591285-b22cb5ef-b54b-4fc1-b4fb-f68f6a431804.PNG)
+![Admin_Table Transaksi](https://user-images.githubusercontent.com/100125353/163591292-dc35e449-7b8f-462c-bd63-f4ddfe2e2457.PNG)
+![Admin_Table User_Create](https://user-images.githubusercontent.com/100125353/163591298-23653cbe-56c3-4cbe-be79-8c295a546f59.PNG)
+![User_Tampilan_Home1](https://user-images.githubusercontent.com/100125353/163591223-43d7b4f5-84db-46e8-88cb-4a7f2b5e762f.PNG)
+
